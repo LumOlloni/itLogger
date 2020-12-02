@@ -1,0 +1,17 @@
+{
+  "logs": [
+    {
+      "message": "First Log",
+      "data": 1606915297161,
+      "attention": false,
+      "id": 1
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "edwf",
+      "lastName": "fwefwefwe",
+      "id": 1
+    }
+  ]
+}
